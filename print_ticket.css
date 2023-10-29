@@ -1,0 +1,43 @@
+body {
+
+}
+th
+{
+  padding: 20px;
+
+}
+table
+{
+  border:2px bold black;
+
+}
+.print_ticket td
+{
+    padding-left: 80px;
+}
+
+.print_ticket th{
+  border:2px bold black;
+}
+.logo
+{
+    width:800px;
+    height: 100px;
+    background-color:black;
+    border: 2px solid black;
+      border-radius: 25px 25px 0px 0px;
+}
+.logo img {
+	width: 35.8%;
+	height: 230.6px;
+}
+.print_ticket
+{
+  border: 2px solid red;  height:290px;  width:803px;
+    border-radius: 25px 25px;
+  }
+.print_ticket
+{
+  margin: auto;
+  background-color: gray;
+}

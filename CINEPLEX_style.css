@@ -1,0 +1,307 @@
+body
+{
+	margin:0px;
+}
+.container
+{background-color: #4d0404;
+	width: 100%;
+	height: 935px;
+}
+.menu ul
+{list-style-type:none;
+
+
+}
+.menu .ul li:hover
+{ color:linen;
+border-bottom:2px solid yellow;
+
+}
+.menu ul li button
+{
+  background-color: black;
+}
+.menu ul li {
+	display: inline-block;
+	padding: 6px;
+	margin-top: 47px;
+	color: gold;
+}
+.schedule {
+	background-color: rgba(4, 0, 5, 0.8);
+	width: 100%;
+	height: 800px;
+}
+.sc
+{
+	background-color: rgba(255,0,30,.37);
+	margin-left:526.4px;
+
+	width:20%;
+
+}
+.about
+{
+	background-color: brown;
+	height: 700px;
+}
+.ab {
+	color: #b2a97a;
+}
+.about p {
+	padding-left: 400px;
+	font-size: 50px;
+}.menu .ul li a
+{
+		text-decoration:none;
+  color:gold;}
+.logo
+{display:inline-block;
+width:25%;
+vertical-align:top;
+}
+.menu
+{display:inline-block;
+width:74%;
+
+
+}
+.c
+{color:gold;
+font-size: 20px;
+text-align: center;
+
+}
+.MOVIES
+{
+	background-color: brown;
+}.n
+{display:inline-block;padding-left: 152.6px;
+
+}
+.Caption{
+	color:gold;
+	font-size: 20px;
+	text-align: center;
+}
+.bl {
+	padding-left: 152.6px;
+	display: inline-block;
+}
+.price {
+	background-color: gray;
+	width: 100%;
+	height:1000px;
+
+	height: px;
+	margin-top:0px;
+
+}
+.price h1
+{margin-left:0px;
+margin-top:0px;
+font-size:20px;
+text-align:center;
+}
+
+
+
+.logo img {
+	width: 122.2%;
+	height: 310px;
+}
+.nav {
+	background-color: black;
+	height: 146.9px;
+}
+.first_li
+{position:relative;}
+.sub_ul
+{display:none;
+}
+.first_li:hover .sub_ul
+{display:block;
+  position:absolute;
+  background-color:#80aaff;
+  padding:0px;
+  top: 106px;Z-index:99;
+  width: 178.6px;
+}
+.sub_ul li
+{display: block !important;
+    width: 69% !important;
+    margin: 0 !important;
+padding: 22px 54.2px;
+
+
+
+
+
+}
+.menu .ul li:hover
+{ color:linen;
+border-bottom:2px solid yellow;
+
+}
+
+.slideshow-container
+{
+
+  border:5px sloid gold;
+}
+.col ul {
+	list-style-type: none;
+	padding-left: 96.2px;
+	color: #a19970;
+	display: inline-block;
+	float: left;
+	background-color: black;
+	margin: 0;
+}
+.contact
+{background-image: url('cine-lobby.jpg');
+  text-align: center;
+  width:100%;
+  height:850px;
+  font-size: 16px;
+}
+.image{
+		background-image: url(cine-lobby.jpg);
+		text-align: center;  width:100%;
+		  height:800px;
+		background-repeat: no-repeat;
+
+}
+form {
+	margin-left: 5.5;
+}
+.register_box
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 350px;
+	height: 420px;
+	padding: 80px 40px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,.5);
+}
+h2
+{
+	margin: 0;
+	padding: 0 0 20px;
+	color: #efed40;
+	text-align: center;
+}
+.register_box input[type="submit"]
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+	background: #ff267e;
+	cursor: pointer;
+	border-radius: 20px;
+}
+.register_box input[type="submit"]:hover
+{
+	background: #efed40;
+	color: #262626;
+}
+
+.user {
+	width: 100px;
+	height: 107.9px;
+	border-radius: 50%;
+	overflow: hidden;
+	position: absolute;
+	top: calc(-100px/4);
+	left: calc(50% - 50px);
+}
+.price_table table
+{
+	border: 2px solid brown;
+	margin: auto;
+}
+.price_table th
+{
+	border: 2px solid brown;
+	padding:25px;
+}
+.price_table td
+{
+	border: 2px solid brown;	padding:25px;
+}
+.price p
+{
+	margin-left:535px;color:#4d0000;
+}
+.movie_one {
+	display: inline-flex;
+	margin-left: 345px;
+	margin-top: 50px;
+}
+.movie_two {
+	display: inline-flex;
+	margin-left: 345px;
+	margin-top: 50px;
+}
+.movie_three{
+	display: inline-flex;
+	margin-left: 345px;
+	margin-top: 50px;
+}
+.movie_four {
+	display: inline-flex;
+	margin-left: 345px;
+	margin-top: 50px;
+}
+.time
+{
+	padding-left: 100px;
+	padding-top: 60px;
+}
+.time td
+{
+	border:2px solid 	 #330000;padding: 10px;
+}
+.time tr
+{	border:2px solid 	 #330000;
+padding: 10px;
+
+}
+.sche
+{background-color: gray;
+	height: 2300px;
+}
+.movie_image2
+{    height: 500px;
+    width: 355.8px;
+}
+.movie_image3
+{    height: 500px;
+    width: 355.8px;
+}
+.movie_image4
+{    height: 500px;
+    width: 355.8px;
+}
+img{
+	width: 100%;
+}
+.bl_four {
+	width: 100px;
+	height: 144.2px;
+	display: inline-block;
+	padding-left: 150px;
+}
+.bl_four img {
+	width: 149.6px;
+	height: 237.4px;
+}
+.schedule
+{
+	width: 1530px;
+}

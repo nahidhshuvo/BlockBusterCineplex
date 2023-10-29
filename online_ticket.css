@@ -1,0 +1,179 @@
+body
+{
+	margin:0px;
+}
+.logo img {
+	width: 122.2%;
+	height: 310px;
+}
+.nav {
+	background-color: black;
+	height: 146.9px;
+}
+.online_ticket
+{
+  weight:100%;
+  height:800px;
+}
+.menu ul li{
+  display:inline-block;
+}
+.menu li {
+	margin-top: 54.7px;
+	padding: 7px;
+	text-decoration: none;
+}.menu .ul li:hover
+{ color:linen;
+border-bottom:2px solid yellow;
+
+}
+.content
+{width:100%;
+	height: 800px;
+	background-repeat: no-repeat;
+	background-image: url('gallery.png');
+	background-size: cover;
+}
+h2
+{
+	padding-left: 350px;
+	padding-top: 50px;
+	margin: 0px;
+}
+p {
+	padding-left: 250px;
+}
+.info
+{
+	height:790px;
+	margin: auto;
+	width: 60%;
+	background-color: rgba(255, 255, 245, 0.6);
+}
+.menu ul li button
+{
+  background-color: black;
+}
+.menu .ul li a
+{
+		text-decoration:none;
+  color:gold;}
+.logo
+{display:inline-block;
+width:25%;
+vertical-align:top;
+}
+.menu
+{display:inline-block;
+width:74%;
+
+
+}
+.dropdown
+{
+  margin-left: 150px;
+}
+.dropbtn {
+	height: 50px;
+	width: 600px;
+	color: gold;
+	background-color: black;
+}
+.dropdown-content
+{	width: 600px;height: 30px;
+text-align: center;
+background-color: maroon;
+color:gold;
+font-size: 25px;
+}
+
+.top
+{
+
+margin-right: 10px;
+}
+.dropbtn_day
+{height: 40px;
+	width: 300px;
+	color: gold;
+	margin-top:200px;
+	margin-left: 80px;
+	background-color: black;
+display: inline-block;
+
+}
+.dropdown_day-content
+{	width: 300px;
+margin-left: 290px;
+height: 30px;
+color:gold;
+font-size: 18px;
+text-align: center;
+margin-top: 120px;
+background-color: maroon;
+}
+.dropbtn_time
+{height: 40px;
+	width: 300px;
+	color: gold;
+	margin-top:200px;
+	margin-left: 150px;
+	background-color: black;
+	text-align: center;
+
+}
+.dropdown_time-content
+{	width: 300px;
+margin-left: 290px;
+height: 30px;
+text-align: center;
+background-color: maroon;
+margin-top: 160px;
+color:gold;
+font-size: 18px;
+}
+.buy {
+	margin-left: 80px;
+	margin-top: 170px;
+}
+.dropbtn {
+background-color: black;
+color: gold;
+padding: 16px;
+font-size: 16px;
+border: none;
+cursor: pointer;
+}
+.dropdown:hover .dropbtn{
+background-color: #330000;
+}
+.dropbtn_time {
+background-color: black;
+color: gold;
+padding: 16px;
+font-size: 16px;
+border: none;
+cursor: pointer;
+}
+
+select {
+	background-color: white;
+	border: none;
+	text-align: center;
+}
+.a
+{
+	margin-left: 300px;
+	margin-top: 200px;
+	width:280px;
+	height:60px;
+	background-color: black;
+	font-size:30px;
+
+
+}
+.submit a{
+	color:gold;
+	text-decoration: none;
+
+}

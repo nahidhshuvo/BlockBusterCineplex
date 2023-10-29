@@ -1,0 +1,98 @@
+<!DOCTYPE>
+<head>
+<link rel="stylesheet" href="CINEPLEX_style.css">
+</head>
+<body>
+<div class="ticket">
+
+</div>
+</body>
+
+
+
+<!DOCTYPE>
+<head>
+<link rel="stylesheet" href="CINEPLEX_style.css">
+
+</head>
+
+<body>
+<div class="Register">
+  <form>
+  			 <table>
+  			<tr>
+  			 <td>
+  			  First name
+  			 </td>
+  			 <td>
+  			  <input type="text" placeholder="Enter First name" name="firstname">
+  			 </td>
+  			 </tr>
+  			  <tr><td>  Last name</td>
+  			 <td>
+  			  <input type="text" placeholder="Enter last name" name="lastname">
+  			  </td>
+  			  </tr>
+
+                                 <tr >
+
+                                 <td>Gender
+
+
+
+                                    </td>
+
+                                     <td>
+
+
+                                          <input type="radio" name="gender" value="male" required> Male
+
+                                             <input type="radio" name="gender" value="female">      Female
+
+                                           </td>
+
+                                            </tr>
+
+  			  <tr><td> E-mail</td>
+  			 <td>
+  			  <input type="text" placeholder="Enter E-mail" name="email">
+  			  </tr>
+  			  <tr><td> Phone</td>
+  			 <td>
+  			  <input type="text" placeholder="Enter Phone" name="phone">
+  			  </td>
+  			  </tr>
+  			  <tr><td> Password</td>
+  			 <td>
+  			  <input type="password"  name="pasword">
+  			  </td>
+  			  </tr>
+  			<tr><td> Confirm Password</td>
+  			 <td>
+  			  <input type="password"  name="pasword">
+  			  </td>
+  			  </tr>
+  			                         <tr>
+                                   <td> </td>
+                                   <td><input type="submit" ></td>
+                                   </tr>
+                                   <tr>
+                                       <td>If you have already registered then click <a href="login.html" target="_blank"> Login </a></td>
+                                   </tr>
+
+  			  			  </table>
+  			</form>
+
+
+  	</div>
+
+
+
+
+
+
+
+
+
+
+</body>
